@@ -10,10 +10,10 @@ https://github.com/ljint/Robot-System
 
 * Extract the files to the destop.
 
-3. open the command shell
+3. Open the command shell
 * In windows system will be pressing the `WIN` and `R` button.` Then, type CMD in the textbox and click Ok.
 
-4. using the command shell to test the robot system
+4. Using the command shell to test the robot system
 * Type `cd C:\Users\Administrator\Desktop\Robot-System`
   #(could be different depend on your file path) 
 * Type `python ROBOT.py F1,R1,B2,L1,B3`
